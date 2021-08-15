@@ -1,35 +1,18 @@
 ### Hi there 👋
 
-<!--
-**radwan503/radwan503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋
-
 #### I'm a Front-End Engineer || UI/UX Novice.
 
 ##### NOW
 
-- Working last [Education](https://radwan503.github.io/Learninglms--Education/) website;
-- Study ui/ux
-- Learning all about **Open Source**
+- :computer: Working last [Education](https://radwan503.github.io/Learninglms--Education/) website;
+- :books: I’m currently learning [ui/ux][open source]
+- :boom: I’m looking to collaborate on Open Source project.
 
 ##### BIO
 
 - I'm currently working at **TigerIT Bangladesh**
 - I use daily: `.ionic`, `.javascript`, `.bootstrap` , `.html`, `.css`, `.svg`, `.psd`
-- I'm mostly active within the **personal skill develop || js group**
+- I'm mostly active with in the [personal skill develop]  [js group]
 
 ##### EXPERIENCE
 
@@ -54,7 +37,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-### Frameworks and libraries
+##### Frameworks and libraries
 
 <p align="left">
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -64,7 +47,7 @@ Here are some ideas to get you started:
    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+##### Software and tools
 
 <p align="left">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
