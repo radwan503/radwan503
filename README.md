@@ -33,8 +33,8 @@
    - Collaborated with product team members to implement new feature developments.
 
 ##### Article
-   -Web Accessibility [Article](https://docs.google.com/document/d/1Q5LAzalI1r-LfE2pi6JiAlNpqMU1vR87/edit)
-   -SEO FOR FRONT-END DEVELOPER [Article](https://docs.google.com/document/d/1HZ7A04saRZ8Waw7rblbGZRIbtHGCVSCiVqUVH6QTaWw/edit#)
+   - Web Accessibility [Article](https://docs.google.com/document/d/1Q5LAzalI1r-LfE2pi6JiAlNpqMU1vR87/edit)
+   - SEO FOR FRONT-END DEVELOPER [Article](https://docs.google.com/document/d/1HZ7A04saRZ8Waw7rblbGZRIbtHGCVSCiVqUVH6QTaWw/edit#)
     
 
 ##### PROGRAMMING LANGUAGE
