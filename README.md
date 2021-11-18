@@ -64,7 +64,8 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-
+##### Article
+-Web Accessibility [Article](https://docs.google.com/document/d/1Q5LAzalI1r-LfE2pi6JiAlNpqMU1vR87/edit);
 
 
 
