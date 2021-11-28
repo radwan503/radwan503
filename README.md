@@ -55,6 +55,7 @@
   <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-F9F9F9.svg?logo=ionic&logoColor=%blue"></a>
+   <a href="#"><img alt="TailwindCss" src="https://img.shields.io/badge/TailwindCss-0EA5E9.svg?logo=tailwindcss&logoColor=%0ea5e9"></a>
    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
