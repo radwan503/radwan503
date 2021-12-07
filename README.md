@@ -7,7 +7,7 @@
 - :computer: Working last [ReactLandingPage](https://github.com/radwan503/Transformer--ReactLandingPage) website;
 - :books: I’m currently learning [ui/ux][open source]
 - :newspaper: Article learning 
--   [Become CEO of a Company](https://www.indeed.com/career-advice/career-development/how-to-become-ceo)
+-   [IndexedDB](https://javascript.info/indexeddb)
 -   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 - :boom: I’m looking to collaborate on Open Source project.
 
