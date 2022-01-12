@@ -8,7 +8,7 @@
 - :books: I’m currently learning [ui/ux][open source]
 - :newspaper: Article learning 
 -   [IndexedDB](https://javascript.info/indexeddb)
--   [A beginner’s guide to writing documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+-   [Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
 - :boom: I’m looking to collaborate on Open Source project.
 
 ##### BIO
