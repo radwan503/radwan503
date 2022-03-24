@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Engineer || UI/UX Novice.
+#### I'm a Front-End Engineer || UI || Template Developer.
 
 ##### NOW
 
