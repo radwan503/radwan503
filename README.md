@@ -14,7 +14,7 @@
 ##### BIO
 
 - I'm currently working at **WFH**
-- I use daily: `.ionic`, `.javascript`, `.bootstrap` , `.html`, `.css`, `.svg`, `.psd`
+- I use daily: `.javascript`, `.bootstrap` , `.html`, `.css`, `.svg`, `.psd`
 - I'm mostly active with in the [personal skill develop]  [js group]
 
 ##### EXPERIENCE
