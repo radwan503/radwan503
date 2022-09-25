@@ -19,7 +19,7 @@
 
 ##### EXPERIENCE
 
--**WFH** Bangladesh Limited.
+-**WFH**.
    - Implemented websites, mobile applications, and management system from concept through deployment.
    - Collaborating closely with the team to support projects during all phases of delivery.
    - Building, testing, maintaining and supporting large applications.
