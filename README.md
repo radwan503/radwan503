@@ -29,12 +29,7 @@
    - Identifying innovative ideas and proof of concepts according to project requirements.
    - Testing to identify bugs and technical issues before and after deploying.
  
--**Antooba** Corp.
-   - Bringing mock-ups to life using HTML, CSS, JavaScript
-   - Standardized all output with a new, responsive, desktop-first approach and strategy.
-   - Assessed UX and UI designs for technical feasibility.
-   - Collaborated with product team members to implement new feature developments.
-
+ 
 ##### Article
    - Web Accessibility [Article](https://docs.google.com/document/d/1Q5LAzalI1r-LfE2pi6JiAlNpqMU1vR87/edit)
    - SEO FOR FRONT-END DEVELOPER [Article](https://docs.google.com/document/d/1HZ7A04saRZ8Waw7rblbGZRIbtHGCVSCiVqUVH6QTaWw/edit#)
