@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- :computer: Working last [MetLi--ResponsiveLandingPage](https://radwan503.github.io/MetLi--Responsivelandingpage/) website;
-- :books: I’m currently learning [Testing][JavaScript]
+- :computer: Working last React Rental Admin Panel;
+- :books: I’m currently learning [Testing][Jest]
 - :newspaper: Article learning 
 -   [IndexedDB](https://javascript.info/indexeddb)
 -   [Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
