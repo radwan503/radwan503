@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Engineer || UI || Template Developer.
+#### I'm a Software Engineer(Front-End) || UI || Template Developer.
 
 ##### NOW
 
