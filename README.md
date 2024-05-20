@@ -5,10 +5,9 @@
 ##### NOW
 
 - :computer: Working last React Rental Admin Panel;
-- :books: I’m currently learning [Testing][Jest]
+- :books: I’m currently learning [JavaScript][MicroFrontEnd]
 - :newspaper: Article learning 
--   [IndexedDB](https://javascript.info/indexeddb)
--   [Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
+-   [Micro Front End)
 - :boom: I’m looking to collaborate on Open Source project.
 
 ##### BIO
