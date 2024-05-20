@@ -12,8 +12,8 @@
 
 ##### BIO
 
-- I'm currently working at **WFH**
-- I use daily: `.javascript`, `.bootstrap` , `.html`, `.css`, `.svg`, `.psd`
+- I'm currently working at **Remotly**
+- I use daily: `.React Js`,`.Next js`,`.Material UI`,`.TailwindCss`,`.javascript`, `.bootstrap` , `.html`, `.css`, `.svg`, `.psd`
 - I'm mostly active with in the [personal skill develop]  [js group]
 
 ##### EXPERIENCE
